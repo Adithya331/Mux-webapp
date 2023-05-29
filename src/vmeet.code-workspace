@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Test/React-Firebase-Auth-V2"
+		}
+	],
+	"settings": {}
+}
